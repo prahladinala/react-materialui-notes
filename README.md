@@ -1,4 +1,4 @@
-### Starter Project for the Material UI playlist
+### REACT MATERIAL UI NOTES APP
 
 Download the code & run **npm install** to install dependencies before starting the app.
 
